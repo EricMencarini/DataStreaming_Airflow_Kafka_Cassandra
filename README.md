@@ -13,16 +13,16 @@ e então fazemos uma conexão com o spark em uma arquitetura de master <-> worke
 
 ## Ferramentas/Tecnologias
 
-*Python
-*Docker
-*API(randomuser.me)
-*Airflow
-*Postgree
-*Kafka em conjunto com o Zookeper
-*Control Center
-*Schema Registry
-*Spark
-*Cassandra
+* Python
+* Docker
+* API(randomuser.me)
+* Airflow
+* Postgree
+* Kafka em conjunto com o Zookeper
+* Control Center
+* Schema Registry
+* Spark
+* Cassandra
 
 ## Pré-requisitos.
 
